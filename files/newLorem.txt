@@ -1,0 +1,22 @@
+Web Dev Roadmap for Beginners (Free!): https://bit.ly/DaveGrayWebDevRoadmap
+
+This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.
+
+⭐ Become a full-stack web dev with Zero To Mastery Courses:
+- The Complete Node.js Developer: https://bit.ly/CompleteNodeJS
+- Jr to Senior Web Dev Roadmap: https://bit.ly/WebDevRoadmap-JrtoSr
+- Master FAANG Coding Interviews: https://bit.ly/FAANGInterview
+
+🚩 Subscribe  ➜ https://bit.ly/3nGHmNn
+
+🚀 Please note: If you are just starting out with Javascript, I recommend completing my 8 hour Javascript full course for beginners tutorial before you try to learn Node.js:   
+
+ • JavaScript Full Course for Beginners ...  
+
+❗ During the tutorial I mention several resources to be provided "in the description below" including links to source code for the various chapters. I have put all of these resource links in one GitHub repository. 
+
+🔗 All Resources & Source Code: https://github.com/gitdagray/node_js_...
+
+📬 Course Updates ➜ https://courses.davegray.codes/
+
+Node.js Full Course for Beginners:
